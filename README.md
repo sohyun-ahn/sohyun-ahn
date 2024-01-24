@@ -1,12 +1,11 @@
 ![github_header](https://github.com/sohyun-ahn/sohyun-ahn/assets/71028309/13ace94a-4bd2-4e85-959b-f40861618eb3)
 
 # ⛏️ Can't check in now  🔧 
-# <br/> <br/> ** Sorry **
 ---  
 ### ❤️‍🩹  Profile under construction 🩹🤕  
 
-  > 😎  Hi There! I'm **Sohyun Ahn**.
-  > 🌱  I'm currently learning *Front-End Development*.
+  > 😎  Hi There! I'm **Sohyun Ahn**. <br>
+  > 🌱  I'm currently learning *Front-End Development*. <br>
   > 🪴  Someday, I hope to develop all the beautiful things in the world!
 
 #### ⚒ Tech ⚙
