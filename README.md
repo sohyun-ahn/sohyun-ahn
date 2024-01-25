@@ -9,7 +9,7 @@
   > 🪴  Someday, I hope to develop all the beautiful things in the world!
 
 #### ⚒ Tech ⚙
- ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white") ![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white") ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black")
+ ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white") ![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white") ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black")
 
 
 ![github_footer](https://github.com/sohyun-ahn/sohyun-ahn/assets/71028309/842cc182-9e21-4de6-83af-0e11081ceffe)
