@@ -1,6 +1,6 @@
 ![github_header](https://github.com/sohyun-ahn/sohyun-ahn/assets/71028309/13ace94a-4bd2-4e85-959b-f40861618eb3)
 
-### ☞ About me ☜
+### About me
   > 😎  Hi There! I'm **Sohyun Ahn**. <br>
   > 🌱  I'm currently learning *Front-End Development*. <br>
   > 🪴  Someday, I hope to develop all the beautiful things in the world!
