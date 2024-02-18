@@ -18,7 +18,7 @@
 
 <br/>
 
-### 🐍 Watch Out! 💢 A Snake is eating my contribution..
+### 🐍 Watch Out! 💢 A snake is eating my contribution..
 
 <picture>
   <source width="100%" media="(prefers-color-scheme: dark)" srcset="https://github.com/sohyun-ahn/sohyun-ahn/blob/output/github-snake-dark.svg" />
