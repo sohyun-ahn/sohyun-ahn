@@ -15,11 +15,12 @@
 
 <br/>
 
-### 🐍 Watch Out!💢 A Snake is eating my contribution..
+### 🐍Watch Out💢 A Snake is eating my contribution..
+ 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sohyun-ahn/sohyun-ahn/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sohyun-ahn/sohyun-ahn/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/sohyun-ahn/sohyun-ahn/blob/output/github-snake.svg" />
+  <source width="100%" media="(prefers-color-scheme: dark)" srcset="https://github.com/sohyun-ahn/sohyun-ahn/blob/output/github-snake-dark.svg" />
+  <source width="100%" media="(prefers-color-scheme: light)" srcset="https://github.com/sohyun-ahn/sohyun-ahn/blob/output/github-snake.svg" />
+  <img width="100%" alt="github-snake" src="https://github.com/sohyun-ahn/sohyun-ahn/blob/output/github-snake.svg" />
 </picture>
 
 ![github_footer](https://github.com/sohyun-ahn/sohyun-ahn/assets/71028309/842cc182-9e21-4de6-83af-0e11081ceffe)
