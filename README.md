@@ -10,7 +10,7 @@
 
 ---
 
-#### A Snake Eating My Contribution 💢
+### 🐍 Watch Out! A Snake Eating My Contribution 💢
 <img alt="github-snake" src="https://github.com/sohyun-ahn/sohyun-ahn/blob/output/github-snake.svg#gh-light-mode-only"/>
 <img alt="github-snake" src="https://github.com/sohyun-ahn/sohyun-ahn/blob/output/github-snake-dark.svg#gh-dark-mode-only"/>
 
