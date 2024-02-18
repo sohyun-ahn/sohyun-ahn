@@ -10,11 +10,8 @@
 
 ---
 
-### A Snake Eating My Contribution
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sohyun-ahn/sohyun-ahn/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sohyun-ahn/sohyun-ahn/blob/output/github-snake.svg" />
-<!--   <img alt="github-snake" src="https://github.com/sohyun-ahn/sohyun-ahn/blob/output/github-snake.svg"/> -->
-</picture>
+#### A Snake Eating My Contribution 💢
+<img alt="github-snake" src="https://github.com/sohyun-ahn/sohyun-ahn/blob/output/github-snake.svg#gh-light-mode-only"/>
+<img alt="github-snake" src="https://github.com/sohyun-ahn/sohyun-ahn/blob/output/github-snake-dark.svg#gh-dark-mode-only"/>
 
 ![github_footer](https://github.com/sohyun-ahn/sohyun-ahn/assets/71028309/842cc182-9e21-4de6-83af-0e11081ceffe)
