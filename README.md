@@ -1,9 +1,12 @@
 ![github_header](https://github.com/sohyun-ahn/sohyun-ahn/assets/71028309/13ace94a-4bd2-4e85-959b-f40861618eb3)
 
+<br/>
+
 ### 💟 About me 💟
  > 😎  Hi There! I'm **Sohyun Ahn**. <br/>
  > 🌱  I'm currently learning *Front-End Development*. <br/>
  > 🪴  Someday, I hope to develop all the beautiful things in the world!
+
 <br/>
 
 ### ⚒ Tech 
@@ -13,6 +16,8 @@
 
 ---    
 
+<br/>
+
 ### 🐍 Watch Out! 💢 A Snake is eating my contribution..
 
 <picture>
@@ -21,6 +26,7 @@
   <img width="100%" alt="github-snake" src="https://github.com/sohyun-ahn/sohyun-ahn/blob/output/github-snake.svg" />
 </picture>
 
+<br/>
 <br/>
 
 ![github_footer](https://github.com/sohyun-ahn/sohyun-ahn/assets/71028309/842cc182-9e21-4de6-83af-0e11081ceffe)
