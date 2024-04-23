@@ -4,7 +4,7 @@
 
 ### 💟 About me 💟
  > 😎  Hi There! I'm **Sohyun Ahn**. <br/>
- > 🌱  I'm currently learning *Front-End Development*. <br/>
+ > 🌱  I'm currently learning *Full-Stack Development*. <br/>
  > 🪴  Someday, I hope to develop all the beautiful things in the world!
 
 <br/>
